@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="content" method="upgrade" version="5.0">
+    <name>Content - Snippet Include</name>
+    <author>Nikol Custom</author>
+    <version>1.0.0</version>
+    <description>Simple PHP snippet include {{tag}}</description>
+
+    <files>
+        <filename plugin="snippetinclude">snippetinclude.php</filename>
+        <filename>snippets.json</filename>
+    </files>
+
+    <config/>
+</extension>
