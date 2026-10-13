@@ -2,6 +2,11 @@
 <extension type="plugin" group="content" method="upgrade" version="5.0">
     <name>Content - Snippet Include</name>
     <author>Nikol Custom</author>
+    <creationDate>2026</creationDate>
+    <copyright>Copyright (C) 2026 Superko. All rights reserved.</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <authorEmail>info@superko.com</authorEmail>
+    <authorUrl>https://superko.com</authorUrl>
     <version>1.0.0</version>
     <description>Simple PHP snippet include {{tag}}</description>
 
